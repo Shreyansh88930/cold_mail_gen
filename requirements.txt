@@ -1,27 +1,23 @@
-# Core dependencies
+# Core
 streamlit
 python-dotenv
 
 # LangChain ecosystem
-langchain>=0.1.0
+langchain
 langchain-community
+langchain-groq
+
+# Vector database
+chromadb
 
 # Web scraping
 requests
 beautifulsoup4
 
-# LLM provider (Groq, OpenAI, etc.)
+# LLM providers
 groq
 openai
 
-# For notebooks (optional)
+# Optional (for local dev / notebooks)
 jupyter
 notebook
-langchain
-langchain-community
-langchain-groq
-streamlit
-langchain
-langchain-community
-langchain-groq
-python-dotenv
