@@ -17,3 +17,11 @@ openai
 # For notebooks (optional)
 jupyter
 notebook
+langchain
+langchain-community
+langchain-groq
+streamlit
+langchain
+langchain-community
+langchain-groq
+python-dotenv
