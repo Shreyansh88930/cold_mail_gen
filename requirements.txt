@@ -1,0 +1,19 @@
+# Core dependencies
+streamlit
+python-dotenv
+
+# LangChain ecosystem
+langchain>=0.1.0
+langchain-community
+
+# Web scraping
+requests
+beautifulsoup4
+
+# LLM provider (Groq, OpenAI, etc.)
+groq
+openai
+
+# For notebooks (optional)
+jupyter
+notebook
